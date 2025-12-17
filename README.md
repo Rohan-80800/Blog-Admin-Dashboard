@@ -6,6 +6,13 @@
 It demonstrates **clean UI/UX**, **scalable component architecture**, **state management**, **local persistence**, and **real-world problem solving** — exactly aligned with the Frontend Developer Assessment goals 🎯.
 
 ---
+<img width="1919" height="907" alt="Screenshot 2025-12-17 110741" src="https://github.com/user-attachments/assets/fc12a9ac-f77a-41ae-8743-8d875ce1b6a2" />
+<img width="1918" height="910" alt="Screenshot 2025-12-17 110801" src="https://github.com/user-attachments/assets/8d06da6f-3123-460a-80c6-96cddb3abde4" />
+<img width="1919" height="905" alt="Screenshot 2025-12-17 110835" src="https://github.com/user-attachments/assets/30220a73-3a46-471e-91c5-61dca49e602a" />
+<img width="1919" height="903" alt="Screenshot 2025-12-17 111016" src="https://github.com/user-attachments/assets/46e12693-7d06-445e-abc0-c4793bb33a91" />
+
+
+--- 
 
 ## ✨ Features
 
